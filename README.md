@@ -2,10 +2,15 @@
 ### Overview
 
 The idea for this project was to create a chat application where one let go off agency. What you said wouldn't necessarily be under your control. 
-Have your words twisted and take the group converstation in a completely unanticipated direction. 
+Have your words twisted and take the group conversation in a completely unanticipated direction.
 
 I planned to have more "friends" show style conversation. I scraped the friends transcripts from [here](https://fangj.github.io/friends/) using cheerio. 
 And trained a new model on RunwayML on those transcripts. 
+
+<img src="https://user-images.githubusercontent.com/12654691/105268597-89186f00-5b60-11eb-8a62-880db25d3096.png" width="600px" height="300px">
+
+Try out the chat [here](https://goofy-panini-b0b245.netlify.app)
+- Set a topic for the chat and invite your friends by sharing the link
 
 ##### It works something like this. 
       Eg: I gave it a prompt of Joey saying "I am not feeling well today."
