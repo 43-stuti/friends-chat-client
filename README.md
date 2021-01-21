@@ -11,8 +11,9 @@ And trained a new model on RunwayML on those transcripts.
 Going futher, I do plan to replicate the same experience with other shows too. Where the users can choose which kind of conversation they would like to be a part of.
 
 <img src="https://user-images.githubusercontent.com/12654691/105268597-89186f00-5b60-11eb-8a62-880db25d3096.png" width="600px" height="300px">
-
-Try out the chat [here](https://goofy-panini-b0b245.netlify.app)
+<pre>
+      Try out the chat [here](https://goofy-panini-b0b245.netlify.app)
+</pre>
 - Set a topic for the chat and invite your friends by sharing the link
 
 ##### It works something like this. 
