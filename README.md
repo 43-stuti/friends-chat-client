@@ -12,7 +12,7 @@ Going futher, I do plan to replicate the same experience with other shows too. W
 
 <img src="https://user-images.githubusercontent.com/12654691/105268597-89186f00-5b60-11eb-8a62-880db25d3096.png" width="600px" height="300px">
 <pre>
-      Try out the chat [here](https://goofy-panini-b0b245.netlify.app)
+      Try out the chat <a href="https://goofy-panini-b0b245.netlify.app"> here </a>
 </pre>
 - Set a topic for the chat and invite your friends by sharing the link
 
